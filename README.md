@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Fun Fact
-(1!)(2!)...(399!)(400!) / (200!) is a perfect square!
+ (1!)(2!)...(399!)(400!) / (200!) is a perfect square!
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
